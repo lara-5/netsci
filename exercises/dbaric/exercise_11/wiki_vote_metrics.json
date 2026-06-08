@@ -1,0 +1,42 @@
+{
+  "dataset": "Wikipedia admin-election vote network (wiki-Vote.txt)",
+  "citation": "Leskovec, Huttenlocher, Kleinberg. Signed networks in social media. CHI 2010.",
+  "nodes": 7115,
+  "edges": 103689,
+  "density": 0.002049,
+  "reciprocity": 0.0565,
+  "avg_in_degree": 14.57,
+  "avg_out_degree": 14.57,
+  "max_in_degree": 457,
+  "max_out_degree": 893,
+  "clustering_fagiolo": 0.0816,
+  "transitivity": 0.0529,
+  "giant_wcc_nodes": 7066,
+  "giant_wcc_pct": 99.3,
+  "giant_scc_nodes": 1300,
+  "giant_scc_pct": 18.3,
+  "num_wccs": 24,
+  "num_sccs": 5816,
+  "louvain_communities": 5,
+  "louvain_modularity": 0.4216,
+  "bowtie_IN": 3858,
+  "bowtie_SCC": 1300,
+  "bowtie_OUT": 1016,
+  "bowtie_Tendrils": 941,
+  "top_influential_node": 4037,
+  "top_influential_score": 0.6567,
+  "page_rank_top5": [
+    4037,
+    15,
+    6634,
+    2625,
+    2398
+  ],
+  "out_degree_top5": [
+    2565,
+    766,
+    11,
+    457,
+    2688
+  ]
+}
