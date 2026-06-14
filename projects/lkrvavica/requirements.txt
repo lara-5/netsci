@@ -1,0 +1,15 @@
+# pip install -r requirements.txt
+
+# Core Notebook Platform
+marimo>=0.19.4
+
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+networkx
+scikit-learn
